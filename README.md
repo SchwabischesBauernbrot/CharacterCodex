@@ -1,3 +1,28 @@
+---
+language:
+- en
+license: apache-2.0
+size_categories:
+- 1M<n<10M
+pretty_name: CharacterCodex
+dataset_info:
+  features:
+  - name: media_type
+    dtype: string
+  - name: genre
+    dtype: string
+  - name: character_name
+    dtype: string
+  - name: media_source
+    dtype: string
+  - name: description
+    dtype: string
+  - name: scenario
+    dtype: string
+tags:
+- language model
+---
+
 # Dataset Card for Character Codex
 
 ## Dataset Summary
