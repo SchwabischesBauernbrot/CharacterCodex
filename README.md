@@ -3,7 +3,7 @@ language:
 - en
 license: apache-2.0
 size_categories:
-- 1M<n<10M
+- 10K<n<100K
 pretty_name: CharacterCodex
 dataset_info:
   features:
