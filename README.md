@@ -25,11 +25,11 @@ tags:
 
 # Dataset Card for Character Codex
 
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/2qPIzxcnzXrEg66VZDjnv.png)
+
 ## Dataset Summary
 
 The Character Codex is a comprehensive dataset featuring popular characters from a wide array of media types and genres. Each entry includes detailed information about the character, the media source, and a unique scenario involving the character. This dataset is valuable for synthetic data, RAG for generative AI, writers, game developers, and fans who want to explore and utilize rich character descriptions for various creative projects.
-
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/tKIiVoA3I2u_atXlCz9kY.png)
 
 ## Dataset Structure
 
