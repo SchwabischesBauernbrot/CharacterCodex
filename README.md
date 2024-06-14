@@ -71,7 +71,7 @@ To load the dataset in your project, you can use the following code snippet:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("NousResearch/character_codex")
+dataset = load_dataset("NousResearch/CharacterCodex")
 ```
 
 ## Use Cases
