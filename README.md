@@ -1,31 +1,7 @@
----
-language:
-- en
-license: apache-2.0
-size_categories:
-- 10K<n<100K
-pretty_name: CharacterCodex
-dataset_info:
-  features:
-  - name: media_type
-    dtype: string
-  - name: genre
-    dtype: string
-  - name: character_name
-    dtype: string
-  - name: media_source
-    dtype: string
-  - name: description
-    dtype: string
-  - name: scenario
-    dtype: string
-tags:
-- language model
----
 
 # Dataset Card for Character Codex
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/2qPIzxcnzXrEg66VZDjnv.png)
+![image/png](2qPIzxcnzXrEg66VZDjnv.png)
 
 ## Dataset Summary
 
